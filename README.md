@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chandan Kumar
 =====================================================================================================================================
 
-Front End Web Developer
+Full Stack Web Developer
 -----------------------
 
 I'm the one who loves turning People's Imagination into Reality. Passionate about Website Development, Animations and creating intuitively.
