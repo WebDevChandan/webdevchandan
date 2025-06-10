@@ -36,6 +36,7 @@ Frontend Engineer | React.js | Next.js | TypeScript | MERN Stack Developer
   
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=WebDevChandan&repo=Portfolio&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+<div width="100%" align="center"><a href="https://webdevchandan.vercel.app" align="right"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=WebDevChandan&repo=diettracker&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://webdevchandan.vercel.app" align="right">
 ---
 
 ### 📬 Connect with Me
