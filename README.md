@@ -6,19 +6,18 @@ Frontend Engineer | React.js | Next.js | TypeScript | MERN Stack Developer
 
 ---
 
-🌟 I'm a Frontend Developer passionate about building scalable, high-performance web applications using React.js, Next.js, and TypeScript.  
-🎯 Skilled in migrating legacy systems, optimizing UI/UX performance, and delivering user-centric products across global teams.  
-🚀 Currently working as an Associate Consultant at Capgemini, contributing to frontend modernization and full-stack development projects.  
-🌎 Open to remote frontend engineering roles in global product-based companies.
+🌟 I’m a Software Engineer (Frontend & Fullstack) passionate about building scalable, high-performance web applications using React.js, Next.js, TypeScript, and Node.js.
+🎯 Skilled in migrating legacy systems, optimizing web performance (Core Web Vitals, Lighthouse SEO), and delivering user-centric products that are accessible, responsive, and production-ready.
+🚀 My experience spans from working as an Associate Consultant at Capgemini (frontend modernization, UI scalability, system performance) to developing independent fullstack products such as:
 
 ---
 
 ### 🛠 Tech Stack
 - **Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, SCSS, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, MySQL
-- **Other Tools:** Prisma ORM, RESTful APIs, Git/GitHub, Jest (Testing), AWS (basic), Docker (basic)
-- **Concepts:** Data Structures & Algorithms (DSA), Responsive Design, Agile Development
+- **Backend:** Node.js, Express.js, REST APIs, Prisma ORM, Socket.io
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Other Tools:** Git/GitHub, Jest (RTL), Docker (basic), GCP/Vercel deployments
+- **Concepts:** Data Structures & Algorithms (DSA), System Design, Performance Optimization, Agile Development
 
 ---
 
