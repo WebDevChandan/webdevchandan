@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
 
 <p align="center">
-Frontend Engineer | React.js | Next.js | TypeScript | MERN Stack Developer
+Software Engineer | React.js | Next.js | TypeScript | Building Scalable Web Apps
 </p>
 
 ---
 
 🌟 I’m a Software Engineer (Frontend & Fullstack) passionate about building scalable, high-performance web applications using React.js, Next.js, TypeScript, and Node.js.
+
 🎯 Skilled in migrating legacy systems, optimizing web performance (Core Web Vitals, Lighthouse SEO), and delivering user-centric products that are accessible, responsive, and production-ready.
+
 🚀 My experience spans from working as an Associate Consultant at Capgemini (frontend modernization, UI scalability, system performance) to developing independent fullstack products such as:
 
 ---
